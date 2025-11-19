@@ -1,5 +1,16 @@
 # Parcial3
+## 1
+Sistema CRUD (Create, Read, Update, Delete) implementado con ANTLR4 y Python
 
+**Requisitos**
+- Python
+- Antlr4
+- En mi caso cree un entorno virtual para ejecutar.
+
+Ejecucion:
+```bash
+python CrudVisitor.py prueba.txt
+```
 ## 2 y 3
 Operaciones con Matrices,se realizo una gramatica par realizar operaciones  basicas suma, resta, multiplicacion con matrices,  usando ANTLR4 en lenguaje Python.
 
